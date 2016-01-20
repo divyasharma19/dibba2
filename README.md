@@ -1,2 +1,2 @@
 # dibba2
-2nd repo
+MY FIRST REPOSITORY ON GITHUB
